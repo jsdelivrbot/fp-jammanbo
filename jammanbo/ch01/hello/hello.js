@@ -1,0 +1,1 @@
+document.querySelector('#msg').innerHTML = '<h1>Hello World</h1>';
